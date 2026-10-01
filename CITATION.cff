@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Code and data for: Optimal control of delayed Sobolev-type fractional evolution systems of order (1,2) under seismic disturbances with neural network validation"
+authors:
+  - family-names: Siddiq
+    given-names: Mamoona
+    orcid: "https://orcid.org/0009-0001-9940-6144"
+    affiliation: "Department of Mathematics and Statistics, The University of Lahore, Sargodha, Pakistan"
+  - family-names: Niazi
+    given-names: Azmat Ullah Khan
+    affiliation: "Department of Mathematics and Statistics, The University of Lahore, Sargodha, Pakistan"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: MIT
+repository-code: "https://github.com/monamaths0-code/fractional-delay-seismic-control"
+# After acceptance: add the journal reference and the Zenodo DOI here.

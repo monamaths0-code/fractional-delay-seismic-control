@@ -1,0 +1,3 @@
+case,rel_L2_error,max_abs_error,g_error,final_loss,peak_displacement
+smooth_forcing_single_network,0.008300027839,0.001834501958,1.040295672e-05,1.576428481e-08,0.1014391665
+elcentro_time_marching_5_windows,0.005061485123,0.002260185478,1.300364049e-05,2.789365603e-09,0.1956321386
