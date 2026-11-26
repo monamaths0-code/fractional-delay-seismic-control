@@ -1,0 +1,4 @@
+# Tested with Python 3.11 (numpy 2.5, torch 2.15, matplotlib 3.11) and on Google Colab
+numpy>=1.24
+torch>=2.0
+matplotlib>=3.7
