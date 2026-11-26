@@ -2,6 +2,12 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite the article below."
 title: "Code and data for: Machine Learning Based Optimal Control of Delayed Sobolev-Type Fractional Evolution Systems of Order (1,2) under Seismic Disturbances"
 authors:
+  - family-names: Alsinai
+    given-names: Ammar
+  - family-names: Peters
+    given-names: James F.
+  - family-names: Piqueira
+    given-names: José Roberto Castilho
   - family-names: Siddiq
     given-names: Mamoona
     orcid: "https://orcid.org/0009-0001-9940-6144"
@@ -9,8 +15,9 @@ authors:
   - family-names: Niazi
     given-names: Azmat Ullah Khan
     affiliation: "Department of Mathematics and Statistics, The University of Lahore, Sargodha, Pakistan"
-version: "1.0.0"
-date-released: "2026-10-01"
+  - family-names: Hussein
+    given-names: Abdelrahman H.
+version: "1.1.0"
+date-released: "2026-11-26"
 license: MIT
 repository-code: "https://github.com/monamaths0-code/fractional-delay-seismic-control"
-# After acceptance: add the journal reference and the Zenodo DOI here.
