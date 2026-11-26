@@ -2,8 +2,7 @@
 
 This repository contains the Python code and the numerical data for the article
 
-> M. Siddiq and A. U. K. Niazi, *Machine Learning Based Optimal Control of Delayed Sobolev-Type Fractional Evolution Systems of Order (1,2) under Seismic Disturbances* (submitted, 2026).
-
+>> A. Alsinai, J. F. Peters, J. R. C. Piqueira, M. Siddiq, A. U. K. Niazi and A. H. Hussein, *Machine Learning Based Optimal Control of Delayed Sobolev-Type Fractional Evolution Systems of Order (1,2) under Seismic Disturbances* (submitted, 2026).
 Every figure and table in Section 6 of the article can be reproduced with these scripts.
 
 Repository: https://github.com/monamaths0-code/fractional-delay-seismic-control
